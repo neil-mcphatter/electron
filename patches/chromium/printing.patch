@@ -63,7 +63,7 @@ index ebffdb08d080eceb0ea9e96ee3ca7db627cfaf5e..bc00a7a00626cee17e5f5ea976f8248f
  }
  
 diff --git a/chrome/browser/printing/print_view_manager_base.cc b/chrome/browser/printing/print_view_manager_base.cc
-index bf7536b9870efe85ca65e509231e1eca86ee982b..e31d3506cc8509a9b9addc011ba85e83fbe608d6 100644
+index 155d86fe79b99989c3f604aeaab13782f8e6631c..b60263e722b2604ed35a1ed10469ac91e22aaa33 100644
 --- a/chrome/browser/printing/print_view_manager_base.cc
 +++ b/chrome/browser/printing/print_view_manager_base.cc
 @@ -27,10 +27,7 @@
@@ -229,7 +229,7 @@ index bf7536b9870efe85ca65e509231e1eca86ee982b..e31d3506cc8509a9b9addc011ba85e83
    print_job_ = nullptr;
  }
 diff --git a/chrome/browser/printing/print_view_manager_base.h b/chrome/browser/printing/print_view_manager_base.h
-index af49d3e2f8abaf7dc4d82dc3f9beccdf4fbd9f18..c5ef1a4c1577c509e5fbe0fcf06e6dfdba30c92c 100644
+index 3d434244927aca5e5dbec8d7c1cd212c5c260c71..9d62c903bf08fa8cfa8c425d430c5e995a04f7fc 100644
 --- a/chrome/browser/printing/print_view_manager_base.h
 +++ b/chrome/browser/printing/print_view_manager_base.h
 @@ -33,6 +33,8 @@ class PrintJob;
